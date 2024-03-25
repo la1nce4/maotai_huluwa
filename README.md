@@ -28,9 +28,6 @@
 | 乐旅商城 | LLSC_COOKIE | 这里填写Token |
 | 驿路黔寻 | YLQX_COOKIE | 这里填写Token |
 
-## 关注&交流
-
-私信不解决项目问题，如有问题请提交 issues！[![GitHub stars](https://img.shields.io/github/stars/yize8888/maotai.svg?style=social&label=Stars)](https://github.com/yize8888/maotai.git)
 
 ## 贡献代码
 
