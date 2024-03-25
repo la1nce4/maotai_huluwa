@@ -1,15 +1,3 @@
-# Notice
-
-```
-2023/06/20
-这个项目是从2023年6月开始的，感谢期间捐赠过我的所有人。
-我对于作弊本身并无兴趣，只是对逆向工程和破解稍有兴趣，喜欢自己写点小玩意。
-项目之所以免费放出，是因为我讨厌那些靠卖盈利的人。
-
-综上，由于个人精力有限，项目目前功能不多。
-
-Thanks to everyone who supported me before, this repository is currently suspended.
-```
 
 ## 项目介绍
 
